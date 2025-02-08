@@ -6,3 +6,16 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+# How to Run the app :
+
+step 1: clone the repository from the repository using 
+git clone https://github.com/Pranjal1713/webtree-assignment.git
+
+step 2: Install the Packages
+npm i / yarn i
+
+final step : Run our application
+npm run dev
